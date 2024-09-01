@@ -1,8 +1,9 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "MirandaChico.github.io"
+  title: "Ruth Esther Miranda Chico"
   navbar:
     left:
       - href: index.qmd

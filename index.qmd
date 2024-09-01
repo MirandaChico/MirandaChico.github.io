@@ -1,5 +1,5 @@
 ---
-title: "MirandaChico.github.io"
+title: "Acerca de Mí"
 ---
 
 This is a Quarto website.
