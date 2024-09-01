@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Acerca de Mí",
+    "title": "Ruth Miranda",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "¡Hola! Soy estudiante de enlace pregrado - posgrado en la Maestría en Ingeniería Industrial, estoy explorando el mundo de la investigación y todo apunta a que no voy a querer salir de él. Me interesa explorar temas como la logística humanitaria y hospitalaria, Last Mile, y la optimización de procesos, aunque esto seguramente cambiará con el tiempo.\n\n\nUniversidad del Norte, Barraquilla | Pregrado en Ingeniería Industrial | Enero 2020 - Actualidad\nUniversidad del Norte, Barraquilla | Maestría en Ingeniría Industrial | Junio 2024 - Actualidad\n\n\n\nUniversidad del Norte | Asistente de Investigación | Septiembre 2023 - Actualidad"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,19 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Ruth Miranda",
+    "section": "",
+    "text": "Universidad del Norte, Barraquilla | Pregrado en Ingeniería Industrial | Enero 2020 - Actualidad\nUniversidad del Norte, Barraquilla | Maestría en Ingeniría Industrial | Junio 2024 - Actualidad"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Ruth Miranda",
+    "section": "",
+    "text": "Universidad del Norte | Asistente de Investigación | Septiembre 2023 - Actualidad"
   }
 ]

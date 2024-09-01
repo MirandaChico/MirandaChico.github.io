@@ -1,11 +1,40 @@
 ---
-title: "Acerca de Mí"
+title: "Ruth Miranda"
+resources: CV_RUTH_MIRANDA_CHICO.pdf
+about: 
+  image: Ruth.png
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/chicor
+    - icon: github
+      text: Github
+      href: https://github.com/MirandaChico
+    - icon: envelope
+      text: Email
+      href: chicor@uninorte.edu.co
+    - icon: filetype-pdf
+      text: CV
+      href: CV_RUTH_MIRANDA_CHICO.pdf
 ---
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
-```
+:::{#hero-heading}
+
+¡Hola! Soy estudiante de enlace pregrado - posgrado en la Maestría en Ingeniería Industrial, estoy explorando el mundo de la investigación y todo apunta a que no voy a querer salir de él. Me interesa explorar temas como la logística humanitaria y hospitalaria, Last Mile, y la optimización de procesos, aunque esto seguramente cambiará con el tiempo.
+
+
+## Education
+
+Universidad del Norte, Barraquilla | Pregrado en Ingeniería Industrial | Enero  2020 - Actualidad
+
+Universidad del Norte, Barraquilla | Maestría en Ingeniría Industrial | Junio 2024 - Actualidad
+
+## Experience
+
+Universidad del Norte | Asistente de Investigación | Septiembre 2023 - Actualidad
+
+
+:::

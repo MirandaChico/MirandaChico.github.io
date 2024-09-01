@@ -1,1 +1,57 @@
-/* css styles */
+body {
+    background-color: #FFFFFF; /* Fondo en color pastel suave */
+    color: #333533; /* Texto principal */
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #D8617D; /* Títulos en color lavanda */
+}
+
+a {
+    color: #ff8fa3; /* Enlaces en color durazno */
+}
+
+.navbar {
+    background-color: #F7D8DB; /* Barra de navegación en rosa pastel */
+    border-bottom: 1px solid #800f2f;
+}
+
+footer {
+    background-color: #ffefd5; /* Pie de página en durazno pastel */
+    color: #2b2b2b;
+    border-top: 1px solid #f5e6e8;
+}
+
+code {
+    background-color: #e6e6fa; /* Fondo de bloques de código en lavanda */
+    color: #2b2b2b;
+}
+
+
+/* Color cuando se pasa el cursor sobre el enlace */
+a:hover {
+    color: #D8617D; /* Un azul pastel */
+}
+
+/* Color cuando el enlace está enfocado (por ejemplo, al tabular sobre él) */
+a:focus {
+    color: #D8617D; /* Azul cielo claro */
+}
+
+/* Color cuando se hace clic en el enlace */
+a:active {
+    color: #D8617D; /* Azul cadete */
+}
+
+/* Importa la fuente desde Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+/* Aplica la fuente a todo el sitio */
+body {
+    font-family: 'Roboto', sans-serif; /* Cambia 'Roboto' por la fuente de tu elección */
+    text-align: justify; /* Justifica el texto */
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Roboto', sans-serif; /* Aplica la misma fuente a los títulos */
+}
